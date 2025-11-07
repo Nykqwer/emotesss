@@ -416,6 +416,8 @@ end
 
 -- Step 2: Define your custom emotes with explicit positions
 local customEmotes = {
+
+    
    
     {Name = "throw back shaking", Id = 86553026843924, Price = 0, Index = #totalEmotes+2},
     {Name = "SpongeBob Imaginaaation 🌈", Id = 18443268949, Price = 0, Index = 23},
@@ -435,7 +437,17 @@ local customEmotes = {
         {Name = "Floor Rock Freeze - Tommy Hilfiger", Id = 10214411646, Price = 0, Index = 101},
     	{Name = "Uprise - Tommy Hilfiger", Id = 10275057230, Price = 0, Index = 124},
         {Name = "catwalk walk", Id = 87739743400914, Price = 0, Index = #totalEmotes+10},
+
+      {Name = "TWICE Strategy", Id = 106862678450011, Price = 100, Index = 10},
+      
+
+       {Name = "TWICE I Got You Part 1", Id = 16215060261, Price = 0, Index = 38},
+   
+{Name = "Nicki Minaj Boom Boom Boom", Id = 15571538346, Price = 0, Index = 51},
+{Name = "Elton John - Rock Out", Id = 11753545334, Price = 100, Index = 58},
+  {Name = "TWICE Feel Special", Id = 14900153406, Price = 100, Index = 83}
   
+
 }
 
 -- Step 3: Insert them without ruining the fetched order
