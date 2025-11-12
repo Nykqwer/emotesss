@@ -447,7 +447,7 @@ local customEmotes = {
 {Name = "Elton John - Rock Out", Id = 11753545334, Price = 100, Index = 58},
   {Name = "TWICE Feel Special", Id = 14900153406, Price = 100, Index = 83},
   {Name = "ALO YOGA POSE - LOTUS POSITION", Id = 12507097350, Price = 50, Index = 93},
-{Name = "BURBERRY LOLA ATTITUDE - NIMBUS", Id = 10147924028, Price = ?, Index = 106}
+{Name = "BURBERRY LOLA ATTITUDE - NIMBUS", Id = 10147924028, Price = 0, Index = 106}
 
 }
 
