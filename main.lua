@@ -418,7 +418,7 @@ end
 local customEmotes = {
 
     
-   
+   {Name = "best dougie (everybody loves me)", Id = 89588459466501, Price = 50, Index = #totalEmotes+6},
     {Name = "throw back shaking", Id = 86553026843924, Price = 0, Index = #totalEmotes+2},
     {Name = "SpongeBob Imaginaaation 🌈", Id = 18443268949, Price = 0, Index = 23},
     {Name = "HUGO Let's Drive!", Id = 17360720445, Price = 0, Index = 24},
